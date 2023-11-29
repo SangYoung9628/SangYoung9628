@@ -1,10 +1,11 @@
-![profile](https://i.esdrop.com/d/f/Zv20u5csd3/e9PpjUmWb0.jpg)
+![profile](https://i.esdrop.com/d/f/Zv20u5csd3/ph8q9Pxjy2.jpg)
 
 
 ###  Hi 
 > I'm working to become an expert of data in transportation
 
 <center>📫 once i've used</center>
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=blue">
 
