@@ -1,3 +1,5 @@
+![profile](https://i.esdrop.com/d/f/Zv20u5csd3/e9PpjUmWb0.jpg)
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning: python & data engineering
